@@ -26,7 +26,7 @@ main() {
 * Cocos2d-x 3.3 && C++
 * `Windows 10 Technical Preview 9879 && Visual Studio 2013 Community && WindowsPhone 8.1 && C#`
 * **Mac OS X Yosemite 10.10 && Xcode 6.1.1 && iOS 8 && Objective C**
-* Ubuntu 14.10 && Android Studio(or Eclipse luna) && Android 5.0.1 && Java 
+* *Ubuntu 14.10 && Android Studio(or Eclipse luna) && Android 5.0.1 && Java* 
 * Python 2.7.9 <sup>(Flask)</sup>
 * Ruby 2.1.5 <sub>(Sinatra)</sub>
 * <del>DataBase && Sql (Sql Server or Oracle)</del>
@@ -34,7 +34,7 @@ main() {
 	1. Visual Studio && Eclipse && Xcode && Android Studio
 	2. GitHub && SourceTree && VMWare Workstation
 	3. Foobar && MPC-HC && Evernote
-* *Dota2 && League Of Legends && World of Warcraft && Heroes of the Storm && Hearth Stone && Diablo && ...*
+* Dota2 && League Of Legends && World of Warcraft && Heroes of the Storm && Hearth Stone && Diablo && ...
 * <cite>Guitar && Painting && Sk8board</cite>
 * <abbr title="balabalabala...">Bala...</abbr>
 
